@@ -7,4 +7,4 @@
   * Karam and oil 
 # Egg Dosa
   * dosa batter
-  * 2 eggs, karam , oil
+  * 1/2 eggs, karam , oil
