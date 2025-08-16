@@ -10,3 +10,4 @@
   * 1/2 eggs, karam , oil
 # Paneer DOsa
   * dosa batter 
+  * oil
