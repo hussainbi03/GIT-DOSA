@@ -8,9 +8,8 @@
 # Egg Dosa
   * dosa batter
   * 1/2 eggs, karam , oil
+<<<<<<< HEAD
 # Paneer DOsa
   * dosa batter 
   * oil
   * misore masala
-  * onions
-  * tomatos
