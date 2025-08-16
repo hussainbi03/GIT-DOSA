@@ -1,0 +1,11 @@
+Revert "capsicum added"
+
+This reverts commit 097070694d132b69bdd7e08ec6cabf1dc1d59d62.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch paneer-dosa
+# Changes to be committed:
+#	modified:   readme.MD
+#
