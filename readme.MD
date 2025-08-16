@@ -14,3 +14,4 @@
   * misore masala
   * onions
   * tomatos
+  * capsicum
